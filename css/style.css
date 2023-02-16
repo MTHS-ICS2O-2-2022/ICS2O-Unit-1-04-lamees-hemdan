@@ -1,4 +1,24 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Lamees Hemdan
+* Created on: February 2023
 * This file contains the CSS for index.html
 */
+
+body{
+  background-color: darkslategrey;
+  color: white;
+  text-align: center;
+}
+
+h1{
+  background-color: darkolivegreen;
+  color: whitesmoke;
+  padding: 40 px;
+  text-align: center;
+}
+
+p{
+  background-color: bisque;
+  color: black;
+  padding: 18 px;
+  text-align: left;
+}
