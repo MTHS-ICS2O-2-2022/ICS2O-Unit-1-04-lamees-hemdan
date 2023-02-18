@@ -1,28 +1,28 @@
 /* Created by: Lamees Hemdan
 * Created on: February 2023
 * This file contains the CSS for index.html
-*/
+*/Doctype 
 
-body{
+body {
   background-color: darkslategrey;
   color: white;
   text-align: center;
 }
 
-h1{
+h1 {
   background-color: darkolivegreen;
   color: whitesmoke;
   padding: 40 px;
   text-align: center;
 }
 
-p{
+p {
   background-color: bisque;
   color: black;
   padding: 18 px;
   text-align: center;
 }
-h2{
+h2 {
   background-color: rgb(58, 122, 58);
   color: whitesmoke;
   text-align: center;
