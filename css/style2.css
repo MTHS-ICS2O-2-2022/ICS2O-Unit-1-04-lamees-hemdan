@@ -15,6 +15,7 @@ h1 {
   padding: 40 px;
   text-align: left;
 }
+
 ul {
   color: blueviolet;
 }
@@ -29,10 +30,15 @@ p {
   background-color: bisque;
   color: black;
   padding: 18 px;
-  text-align:left;
+  text-align: left;
 }
 
-th, td {
+th {
+    border: 1px solid black;
+    padding: 8px;
+  }
+
+td {
   border: 1px solid black;
   padding: 8px;
 }
